@@ -1,0 +1,76 @@
+\hypertarget{class_capa___entidades_1_1_factory_1_1_factory_transporte}{}\doxysection{Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Transporte Class Reference}
+\label{class_capa___entidades_1_1_factory_1_1_factory_transporte}\index{Capa\_Entidades.Factory.FactoryTransporte@{Capa\_Entidades.Factory.FactoryTransporte}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_transporte}{Factory\+Transporte}}, se encarga de cosntruir el tipo de transporte para el ususario Repartidor  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Transporte\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{class_capa___entidades_1_1_factory_1_1_factory_transporte__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_transporte}{Transporte}} \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_transporte_a3e9f1e9a5f62f4b867f39416301c2dd9}{crea\+Transporte}} (\mbox{\hyperlink{_tipo_transporte_8cs_ab57838a4b81abc99a94efd2e17034916}{Tipo\+Transporte}} p\+Tipo)
+\begin{DoxyCompactList}\small\item\em Metodo crea\+Transporte, se encarga de la construccion del objeto transporte \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_transporte}{Factory\+Transporte}}, se encarga de cosntruir el tipo de transporte para el ususario Repartidor 
+
+
+
+Definition at line 14 of file Factory\+Transporte.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_factory_1_1_factory_transporte_a3e9f1e9a5f62f4b867f39416301c2dd9}\label{class_capa___entidades_1_1_factory_1_1_factory_transporte_a3e9f1e9a5f62f4b867f39416301c2dd9}} 
+\index{Capa\_Entidades.Factory.FactoryTransporte@{Capa\_Entidades.Factory.FactoryTransporte}!creaTransporte@{creaTransporte}}
+\index{creaTransporte@{creaTransporte}!Capa\_Entidades.Factory.FactoryTransporte@{Capa\_Entidades.Factory.FactoryTransporte}}
+\doxysubsubsection{\texorpdfstring{creaTransporte()}{creaTransporte()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_transporte}{Transporte}} Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Transporte.\+crea\+Transporte (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{_tipo_transporte_8cs_ab57838a4b81abc99a94efd2e17034916}{Tipo\+Transporte}}}]{p\+Tipo }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metodo crea\+Transporte, se encarga de la construccion del objeto transporte 
+
+\begin{DoxyReturn}{Returns}
+Transporte
+\end{DoxyReturn}
+
+
+Definition at line 20 of file Factory\+Transporte.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{21         \{}
+\DoxyCodeLine{22             \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_transporte}{Transporte}} instanciaTransporte = \textcolor{keyword}{null};}
+\DoxyCodeLine{23             \textcolor{keywordflow}{switch} (pTipo)}
+\DoxyCodeLine{24             \{}
+\DoxyCodeLine{25                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_transporte_8cs_ab57838a4b81abc99a94efd2e17034916}{TipoTransporte}}.Bicicleta:}
+\DoxyCodeLine{26                     instanciaTransporte = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_transporte___bicicleta}{Transporte\_Bicicleta}}();}
+\DoxyCodeLine{27                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{28                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_transporte_8cs_ab57838a4b81abc99a94efd2e17034916}{TipoTransporte}}.Carro:}
+\DoxyCodeLine{29                     instanciaTransporte = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_transporte___carro}{Transporte\_Carro}}();}
+\DoxyCodeLine{30                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{31                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_transporte_8cs_ab57838a4b81abc99a94efd2e17034916}{TipoTransporte}}.Moto:}
+\DoxyCodeLine{32                     instanciaTransporte = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_transporte___motocicleta}{Transporte\_Motocicleta}}();}
+\DoxyCodeLine{33                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{34             \}}
+\DoxyCodeLine{35             \textcolor{keywordflow}{return} instanciaTransporte;}
+\DoxyCodeLine{36         \}}
+
+\end{DoxyCode}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Factory/\mbox{\hyperlink{_factory_transporte_8cs}{Factory\+Transporte.\+cs}}\end{DoxyCompactItemize}

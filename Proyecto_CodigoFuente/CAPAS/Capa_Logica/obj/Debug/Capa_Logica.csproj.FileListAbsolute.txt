@@ -1,0 +1,16 @@
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.Properties.Resources.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.csproj.GenerateResource.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Capa_Logica.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Capa_Logica.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Capa_Logica.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Newtonsoft.Json.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\QRCoder.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Newtonsoft.Json.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\obj\Debug\Capa_Logica.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica\bin\Debug\Gma.QrCodeNet.Encoding.xml

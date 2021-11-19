@@ -1,0 +1,4 @@
+<map id="Capa_Entidades.Clases.Factura.ObtenerPDF_GuardadoEnRutaSeleccionada" name="Capa_Entidades.Clases.Factura.ObtenerPDF_GuardadoEnRutaSeleccionada">
+<area shape="rect" id="node1" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="308,13,587,54"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#ad2cb098e50b690752f12a825f25d2520" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="5,5,260,61"/>
+</map>

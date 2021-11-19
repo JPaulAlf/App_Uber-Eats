@@ -1,0 +1,11 @@
+<map id="Capa_Entidades.Clases.Factura.ObtenerXML" name="Capa_Entidades.Clases.Factura.ObtenerXML">
+<area shape="rect" id="node1" title="Metodo que genera el XML de Factura" alt="" coords="5,141,219,183"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a9c83b50c19bbdb9b296a419cb5a2d056" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="1051,11,1264,52"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a1a63c68038e5db8cb8cc0a82b2fdc28f" title="Metodo Calcula_IVA, calcula el IVA" alt="" coords="528,91,741,132"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a980663db8243909df84a62aadb7f3574" title="Metodo Calcula_SubTotal, calcula monto sin IVA" alt="" coords="789,65,1003,107"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a079632a27faac3a59bb19ebba705c857" title=" " alt="" coords="267,141,480,183"/>
+<area shape="rect" id="node7" href="$class_capa___entidades_1_1_clases_1_1_factura.html#ac83f41f2e3cde127e97e25e64674ccd0" title="Metodo CalculaMonto_Cupones, calcula el total de dinero por los cupones" alt="" coords="267,207,480,248"/>
+<area shape="rect" id="node8" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a8aa6642cd8f8dd13cb3f0896d775448b" title="Metodo CalculaMonto_Productos, calcula el total de dinero por los productos" alt="" coords="267,272,480,313"/>
+<area shape="rect" id="node9" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aa2aeeaf3c15adc3e0f846f4228943499" title="Metodo CalculaMonto_Total, calcula el total de la factura" alt="" coords="267,337,480,379"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_pago.html#ab6d3fc21e8e94e0b479d6af38cc9fe7f" title="Metodo AsignarCostoColones, asigna costo en colones" alt="" coords="1312,11,1511,52"/>
+</map>

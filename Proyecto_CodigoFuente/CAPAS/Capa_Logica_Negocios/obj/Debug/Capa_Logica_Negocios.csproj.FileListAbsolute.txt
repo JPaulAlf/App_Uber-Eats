@@ -1,0 +1,534 @@
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csprojAssemblyReference.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.Properties.Resources.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.GenerateResource.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CopyComplete
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csprojAssemblyReference.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.Properties.Resources.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.GenerateResource.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CopyComplete
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll.config
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll.config
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll.config
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.xml
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csprojAssemblyReference.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.Properties.Resources.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.GenerateResource.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CoreCompileInputs.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CopyComplete
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll.config
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Logica_Negocios.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Acceso_Datos.dll.config
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\Capa_Entidades.dll.config
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\bin\Debug\itextsharp.xml
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csprojAssemblyReference.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.Properties.Resources.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.GenerateResource.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CoreCompileInputs.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.csproj.CopyComplete
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Logica_Negocios\obj\Debug\Capa_Logica_Negocios.pdb

@@ -1,0 +1,73 @@
+\hypertarget{class_capa___entidades_1_1_factory_1_1_factory_articulo}{}\doxysection{Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Articulo Class Reference}
+\label{class_capa___entidades_1_1_factory_1_1_factory_articulo}\index{Capa\_Entidades.Factory.FactoryArticulo@{Capa\_Entidades.Factory.FactoryArticulo}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_articulo}{Factory\+Articulo}}, se encarga de cosntruir el tipo de articulo  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Articulo\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{class_capa___entidades_1_1_factory_1_1_factory_articulo__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}} \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_articulo_a6811e3899ef333ffe4b8356d066ea5e3}{Crea\+Articulo}} (\mbox{\hyperlink{_tipo_articulo_8cs_ad917b190e38686f87198bc7df3622baa}{Tipo\+Articulo}} p\+Tipo)
+\begin{DoxyCompactList}\small\item\em Metodo Crea\+Articulo, se encarga de la construccion del objeto artiuclo \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_articulo}{Factory\+Articulo}}, se encarga de cosntruir el tipo de articulo 
+
+
+
+Definition at line 13 of file Factory\+Articulo.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_factory_1_1_factory_articulo_a6811e3899ef333ffe4b8356d066ea5e3}\label{class_capa___entidades_1_1_factory_1_1_factory_articulo_a6811e3899ef333ffe4b8356d066ea5e3}} 
+\index{Capa\_Entidades.Factory.FactoryArticulo@{Capa\_Entidades.Factory.FactoryArticulo}!CreaArticulo@{CreaArticulo}}
+\index{CreaArticulo@{CreaArticulo}!Capa\_Entidades.Factory.FactoryArticulo@{Capa\_Entidades.Factory.FactoryArticulo}}
+\doxysubsubsection{\texorpdfstring{CreaArticulo()}{CreaArticulo()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}} Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Articulo.\+Crea\+Articulo (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{_tipo_articulo_8cs_ad917b190e38686f87198bc7df3622baa}{Tipo\+Articulo}}}]{p\+Tipo }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metodo Crea\+Articulo, se encarga de la construccion del objeto artiuclo 
+
+\begin{DoxyReturn}{Returns}
+Articulo
+\end{DoxyReturn}
+
+
+Definition at line 20 of file Factory\+Articulo.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{21         \{}
+\DoxyCodeLine{22             \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}} instanciaArticulo = \textcolor{keyword}{null};}
+\DoxyCodeLine{23             \textcolor{keywordflow}{switch} (pTipo)}
+\DoxyCodeLine{24             \{}
+\DoxyCodeLine{25                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_articulo_8cs_ad917b190e38686f87198bc7df3622baa}{TipoArticulo}}.PRRODUCTO:}
+\DoxyCodeLine{26                     instanciaArticulo = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo___producto}{Articulo\_Producto}}();}
+\DoxyCodeLine{27                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{28                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_articulo_8cs_ad917b190e38686f87198bc7df3622baa}{TipoArticulo}}.CUPON:}
+\DoxyCodeLine{29                     instanciaArticulo = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo___cupon}{Articulo\_Cupon}}();}
+\DoxyCodeLine{30                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{31             \}}
+\DoxyCodeLine{32             \textcolor{keywordflow}{return} instanciaArticulo;}
+\DoxyCodeLine{33         \}}
+
+\end{DoxyCode}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Factory/\mbox{\hyperlink{_factory_articulo_8cs}{Factory\+Articulo.\+cs}}\end{DoxyCompactItemize}

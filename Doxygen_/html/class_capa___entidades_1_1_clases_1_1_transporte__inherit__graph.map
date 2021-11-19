@@ -1,0 +1,6 @@
+<map id="Capa_Entidades.Clases.Transporte" name="Capa_Entidades.Clases.Transporte">
+<area shape="rect" id="node1" title="Clase Transporte, se encarga de crear el medio de transporte del repartidor" alt="" coords="256,5,483,127"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_transporte___bicicleta.html" title="Clase Transporte_Bicicleta, hereda metodos y propiedades de Transporte" alt="" coords="5,189,232,281"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_transporte___carro.html" title="Clase Transporte_Carro, hereda metodos y propiedades de Transporte y de ITransporte" alt="" coords="256,175,483,296"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_transporte___motocicleta.html" title="Clase Transporte_Motocicleta, hereda metodos y propiedades de Transporte y de ITransporte" alt="" coords="507,175,733,296"/>
+</map>

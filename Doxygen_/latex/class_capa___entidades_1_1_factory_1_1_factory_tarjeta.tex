@@ -1,0 +1,79 @@
+\hypertarget{class_capa___entidades_1_1_factory_1_1_factory_tarjeta}{}\doxysection{Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Tarjeta Class Reference}
+\label{class_capa___entidades_1_1_factory_1_1_factory_tarjeta}\index{Capa\_Entidades.Factory.FactoryTarjeta@{Capa\_Entidades.Factory.FactoryTarjeta}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_tarjeta}{Factory\+Tarjeta}}, se encarga de cosntruir el tipo de tarjeta  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Tarjeta\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{class_capa___entidades_1_1_factory_1_1_factory_tarjeta__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta}{Tarjeta}} \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_tarjeta_a926bd693d2ab05e1b6e096f4fd815080}{Crea\+Tarjeta}} (\mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{Tipo\+Tarjeta}} p\+Tipo)
+\begin{DoxyCompactList}\small\item\em Metodo crea\+Tarjeta, se encarga de la construccion del objeto tarjeta \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_tarjeta}{Factory\+Tarjeta}}, se encarga de cosntruir el tipo de tarjeta 
+
+
+
+Definition at line 13 of file Factory\+Tarjeta.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_factory_1_1_factory_tarjeta_a926bd693d2ab05e1b6e096f4fd815080}\label{class_capa___entidades_1_1_factory_1_1_factory_tarjeta_a926bd693d2ab05e1b6e096f4fd815080}} 
+\index{Capa\_Entidades.Factory.FactoryTarjeta@{Capa\_Entidades.Factory.FactoryTarjeta}!CreaTarjeta@{CreaTarjeta}}
+\index{CreaTarjeta@{CreaTarjeta}!Capa\_Entidades.Factory.FactoryTarjeta@{Capa\_Entidades.Factory.FactoryTarjeta}}
+\doxysubsubsection{\texorpdfstring{CreaTarjeta()}{CreaTarjeta()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta}{Tarjeta}} Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Tarjeta.\+Crea\+Tarjeta (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{Tipo\+Tarjeta}}}]{p\+Tipo }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metodo crea\+Tarjeta, se encarga de la construccion del objeto tarjeta 
+
+\begin{DoxyReturn}{Returns}
+Tarjeta
+\end{DoxyReturn}
+
+
+Definition at line 20 of file Factory\+Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{21         \{}
+\DoxyCodeLine{22             \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta}{Tarjeta}} instanciaTarjeta = \textcolor{keyword}{null};}
+\DoxyCodeLine{23             \textcolor{keywordflow}{switch} (pTipo)}
+\DoxyCodeLine{24             \{}
+\DoxyCodeLine{25                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{TipoTarjeta}}.MASTER\_CARD:}
+\DoxyCodeLine{26                     instanciaTarjeta = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta}{Tarjeta}}();}
+\DoxyCodeLine{27                     instanciaTarjeta.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}{\_TipoTarjeta}} = \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{TipoTarjeta}}.MASTER\_CARD;}
+\DoxyCodeLine{28                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{29                \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{TipoTarjeta}}.VISA:}
+\DoxyCodeLine{30                     instanciaTarjeta = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta}{Tarjeta}}();}
+\DoxyCodeLine{31                     instanciaTarjeta.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}{\_TipoTarjeta}} = \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{TipoTarjeta}}.VISA;}
+\DoxyCodeLine{32                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{33             \}}
+\DoxyCodeLine{34             \textcolor{keywordflow}{return} instanciaTarjeta;}
+\DoxyCodeLine{35         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Tipo\+Tarjeta.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Factory/\mbox{\hyperlink{_factory_tarjeta_8cs}{Factory\+Tarjeta.\+cs}}\end{DoxyCompactItemize}

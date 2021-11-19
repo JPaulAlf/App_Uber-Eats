@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Logica", "Capa_Logica.csproj", "{7125A59E-9E8F-4ECC-88A1-687C3461F423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7125A59E-9E8F-4ECC-88A1-687C3461F423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7125A59E-9E8F-4ECC-88A1-687C3461F423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7125A59E-9E8F-4ECC-88A1-687C3461F423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7125A59E-9E8F-4ECC-88A1-687C3461F423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB25F0C-F7B5-4E2E-96DD-4F54536E6BF9}
+	EndGlobalSection
+EndGlobal

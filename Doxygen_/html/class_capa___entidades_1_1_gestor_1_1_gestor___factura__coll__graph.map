@@ -1,0 +1,6 @@
+<map id="Capa_Entidades.Gestor.Gestor_Factura" name="Capa_Entidades.Gestor.Gestor_Factura">
+<area shape="rect" id="node1" title="Clase Gestor_Factura, se encarga de obtener los metodos de Factura" alt="" coords="117,608,329,935"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html" title="Clase Factura, se encarga de elaborar el PDF y XML que seran enviados por correo" alt="" coords="119,263,328,545"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_usuario.html" title="Clase Usuario, hereda metodos y propiedades de Transporte y de ITransporte" alt="" coords="5,5,215,185"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_pago.html" title="Clase Pago, se encarga de generar un pago, que luego sera ingresado en la tarjeta" alt="" coords="239,5,434,185"/>
+</map>

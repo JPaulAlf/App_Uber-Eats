@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{69554DD3-A9BC-49A7-A16F-77FCE49E0F3A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Capa_Vista</RootNamespace>
+    <AssemblyName>Capa_Vista</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Admin\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5B80AAD2DC019A940874A0C34018367A9B7019FC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Capa_Vista_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Portable.BouncyCastle.1.8.5\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Common.Logging.3.4.1\lib\net40\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging.Core, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Common.Logging.Core.3.4.1\lib\net40\Common.Logging.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.8.0.2, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\QrCode.Net.0.4.0.0\lib\net45\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.9.2.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\GMap.NET.Windows.1.9.2\lib\net40\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.9.2.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\GMap.NET.Windows.1.9.2\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation, Version=1.9.2.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\GMap.NET.Windows.1.9.2\lib\net40\GMap.NET.WindowsPresentation.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.Core.1.0.113.1\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.EF6.1.0.113.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.Linq.1.0.113.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="JustEat_Pry5CTDataSet.cs">
+      <DependentUpon>JustEat_Pry5CTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet3.cs">
+      <DependentUpon>JustEat_Pry5CTDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet7.cs">
+      <DependentUpon>JustEat_Pry5CTDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JustEat_Pry5CTDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JustEat_Pry5CTDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn_OlvidoContrasenna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn_OlvidoContrasenna.Designer.cs">
+      <DependentUpon>LogIn_OlvidoContrasenna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn_RegistroNuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn_RegistroNuevoUsuario.Designer.cs">
+      <DependentUpon>LogIn_RegistroNuevoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Administrador.Designer.cs">
+      <DependentUpon>Menu_Administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Administrador_Mantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Administrador_Mantenimiento.Designer.cs">
+      <DependentUpon>Menu_Administrador_Mantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Administrador_RegistroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Administrador_RegistroUsuario.Designer.cs">
+      <DependentUpon>Menu_Administrador_RegistroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Empresa.Designer.cs">
+      <DependentUpon>Menu_Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Empresa_AceptarPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Empresa_AceptarPedidos.Designer.cs">
+      <DependentUpon>Menu_Empresa_AceptarPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Empresa_ActualizarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Empresa_ActualizarDatos.Designer.cs">
+      <DependentUpon>Menu_Empresa_ActualizarDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Empresa_Cupones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Empresa_Cupones.Designer.cs">
+      <DependentUpon>Menu_Empresa_Cupones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Empresa_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Empresa_Productos.Designer.cs">
+      <DependentUpon>Menu_Empresa_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Empresa_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Empresa_Reportes.Designer.cs">
+      <DependentUpon>Menu_Empresa_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Repartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Repartidor.Designer.cs">
+      <DependentUpon>Menu_Repartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Repartidor_AceptarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Repartidor_AceptarPedido.Designer.cs">
+      <DependentUpon>Menu_Repartidor_AceptarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Repartidor_ActualizarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Repartidor_ActualizarDatos.Designer.cs">
+      <DependentUpon>Menu_Repartidor_ActualizarDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Repartidor_EntregaPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Repartidor_EntregaPedido.Designer.cs">
+      <DependentUpon>Menu_Repartidor_EntregaPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Repartidor_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Repartidor_Reportes.Designer.cs">
+      <DependentUpon>Menu_Repartidor_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Usuario.Designer.cs">
+      <DependentUpon>Menu_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Usuario_ActualizarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Usuario_ActualizarDatos.Designer.cs">
+      <DependentUpon>Menu_Usuario_ActualizarDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Usuario_CalificarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Usuario_CalificarPedido.Designer.cs">
+      <DependentUpon>Menu_Usuario_CalificarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Usuario_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Usuario_Reportes.Designer.cs">
+      <DependentUpon>Menu_Usuario_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Usuario_SolicitudProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Usuario_SolicitudProducto.Designer.cs">
+      <DependentUpon>Menu_Usuario_SolicitudProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Cliente_CuponesObtenidos.rdlc" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Cliente_PedidosRealizados.rdlc" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Negocio_ComentariosNegativos.rdlc" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Negocio_CuponesAplicados.rdlc" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Negocio_Recaudacion.rdlc" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Repartidor_EntregasCalificadasMal.rdlc" />
+    <EmbeddedResource Include="Asistente_Informes_Reportviewer\Report_Repartidor_EntregasRealizadas.rdlc" />
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn_OlvidoContrasenna.resx">
+      <DependentUpon>LogIn_OlvidoContrasenna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn_RegistroNuevoUsuario.resx">
+      <DependentUpon>LogIn_RegistroNuevoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Administrador.resx">
+      <DependentUpon>Menu_Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Administrador_Mantenimiento.resx">
+      <DependentUpon>Menu_Administrador_Mantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Administrador_RegistroUsuario.resx">
+      <DependentUpon>Menu_Administrador_RegistroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Empresa.resx">
+      <DependentUpon>Menu_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Empresa_AceptarPedidos.resx">
+      <DependentUpon>Menu_Empresa_AceptarPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Empresa_ActualizarDatos.resx">
+      <DependentUpon>Menu_Empresa_ActualizarDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Empresa_Cupones.resx">
+      <DependentUpon>Menu_Empresa_Cupones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Empresa_Productos.resx">
+      <DependentUpon>Menu_Empresa_Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Empresa_Reportes.resx">
+      <DependentUpon>Menu_Empresa_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Repartidor.resx">
+      <DependentUpon>Menu_Repartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Repartidor_AceptarPedido.resx">
+      <DependentUpon>Menu_Repartidor_AceptarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Repartidor_ActualizarDatos.resx">
+      <DependentUpon>Menu_Repartidor_ActualizarDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Repartidor_EntregaPedido.resx">
+      <DependentUpon>Menu_Repartidor_EntregaPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Repartidor_Reportes.resx">
+      <DependentUpon>Menu_Repartidor_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Usuario.resx">
+      <DependentUpon>Menu_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Usuario_ActualizarDatos.resx">
+      <DependentUpon>Menu_Usuario_ActualizarDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Usuario_CalificarPedido.resx">
+      <DependentUpon>Menu_Usuario_CalificarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Usuario_Reportes.resx">
+      <DependentUpon>Menu_Usuario_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Usuario_SolicitudProducto.resx">
+      <DependentUpon>Menu_Usuario_SolicitudProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Capa_Vista_TemporaryKey.pfx" />
+    <None Include="JustEat_Pry5CTDataSet.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet1.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet1.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet2.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet2.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet3.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet3.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet4.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet4.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet5.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet5.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet6.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet6.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet7.xsc">
+      <DependentUpon>JustEat_Pry5CTDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JustEat_Pry5CTDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JustEat_Pry5CTDataSet7.xss">
+      <DependentUpon>JustEat_Pry5CTDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %283%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Mapa_Imagenes\terminar.png" />
+    <Content Include="Mapa_Imagenes\tienda %282%29.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\dinero %281%29.png" />
+    <None Include="Resources\realimentacion.png" />
+    <None Include="Resources\cajas.png" />
+    <None Include="Resources\orden1.png" />
+    <None Include="Resources\cerrar %287%29.png" />
+    <None Include="Resources\cerrar %288%29.png" />
+    <None Include="Resources\impresion.png" />
+    <None Include="Resources\final.png" />
+    <Content Include="imagen\pngegg.png" />
+    <None Include="Resources\conocimiento.png" />
+    <None Include="Resources\cupon %282%29.png" />
+    <None Include="Resources\orden.png" />
+    <None Include="Resources\camara-trasera %281%29.png" />
+    <None Include="Resources\camara-trasera %282%29.png" />
+    <None Include="Resources\papel.png" />
+    <None Include="Resources\llave.png" />
+    <None Include="Resources\regreso.png" />
+    <None Include="Resources\proveedor %281%29.png" />
+    <None Include="Resources\propietario %281%29.png" />
+    <None Include="Resources\proveedor.png" />
+    <None Include="Resources\propietario.png" />
+    <None Include="Resources\menu-abierto.png" />
+    <None Include="Resources\tienda %281%29.png" />
+    <None Include="Resources\registro.png" />
+    <None Include="Resources\texto.png" />
+    <None Include="Resources\salida.png" />
+    <None Include="Resources\ubicacion.png" />
+    <None Include="Resources\producto %284%29.png" />
+    <None Include="Resources\la-seguridad.png" />
+    <None Include="Resources\fondo_registro.jpg" />
+    <None Include="Resources\aceptar.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\tienda.png" />
+    <None Include="Resources\repartidor %281%29.png" />
+    <None Include="Resources\repartidor.png" />
+    <None Include="Resources\flecha.png" />
+    <None Include="Resources\minimizar %282%29.png" />
+    <None Include="Resources\icons8-close-window-26.png" />
+    <None Include="Resources\cerrar %283%29.png" />
+    <None Include="Resources\cerrar %282%29.png" />
+    <None Include="Resources\minimizar.png" />
+    <None Include="Resources\cerrar.png" />
+    <None Include="Resources\dinero.png" />
+    <None Include="Resources\calificar-nota.png" />
+    <None Include="Resources\comida-rapida.png" />
+    <None Include="Resources\cupon.png" />
+    <None Include="Resources\equipo.png" />
+    <None Include="Resources\entrega-de-comida.png" />
+    <None Include="Resources\cerrar %284%29.png" />
+    <None Include="Resources\cerrar %286%29.png" />
+    <None Include="Resources\bolsa-de-la-compra.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\garrapata.png" />
+    <None Include="Resources\cancelar %282%29.png" />
+    <None Include="Resources\camara-trasera.png" />
+    <None Include="Resources\agregar-producto.png" />
+    <None Include="Resources\cambio.png" />
+    <None Include="Resources\completar.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\cupon %281%29.png" />
+    <None Include="Resources\encontrar.png" />
+    <None Include="Resources\crear.png" />
+    <None Include="Resources\caja.png" />
+    <None Include="Resources\camino.png" />
+    <None Include="Resources\actualizar.png" />
+    <Content Include="Mapa_Imagenes\pizza %281%29.png" />
+    <None Include="Resources\base-de-datos.png" />
+    <None Include="Resources\dejar-de-seguir.png" />
+    <None Include="Resources\dejar-de-seguir %281%29.png" />
+    <None Include="Resources\dejar-de-seguir %282%29.png" />
+    <Content Include="Resources\ICONO_EMPRESA.png" />
+    <None Include="Resources\pngegg %284%29.png" />
+    <None Include="Resources\pngegg %283%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Acceso_Datos\Capa_Acceso_Datos.csproj">
+      <Project>{77FD6593-5FF9-46B3-9FD2-CE48846228BA}</Project>
+      <Name>Capa_Acceso_Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa_Logica\Capa_Entidades.csproj">
+      <Project>{7125a59e-9e8f-4ecc-88a1-687c3461f423}</Project>
+      <Name>Capa_Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa_Logica_Negocios\Capa_Logica_Negocios.csproj">
+      <Project>{D126CB6E-0FDD-4413-978D-9D20DF193AA0}</Project>
+      <Name>Capa_Logica_Negocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.Core.1.0.113.1\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.Core.1.0.113.1\build\net46\System.Data.SQLite.Core.targets'))" />
+    <Error Condition="!Exists('..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.Core.1.0.113.1\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\..\Proyecto_AppJustEat\packages\System.Data.SQLite.Core.1.0.113.1\build\net46\System.Data.SQLite.Core.targets')" />
+  <Import Project="..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\..\Proyecto_AppJustEat\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

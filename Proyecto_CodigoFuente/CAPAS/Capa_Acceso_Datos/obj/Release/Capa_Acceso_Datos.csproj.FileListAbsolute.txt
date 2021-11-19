@@ -1,0 +1,204 @@
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.XmlSerializers.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.WebForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.SqlServer.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Newtonsoft.Json.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.SqlServer.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\Newtonsoft.Json.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\bin\Release\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.XmlSerializers.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.XmlSerializers.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.ReportViewer.WebForms.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Entidades.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.SqlServer.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Newtonsoft.Json.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\itextsharp.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Entidades.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Capa_Entidades.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\EntityFramework.SqlServer.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\Newtonsoft.Json.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\System.Data.SQLite.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\bin\Release\itextsharp.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csprojAssemblyReference.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.Properties.Resources.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csproj.GenerateResource.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csproj.CopyComplete
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.XmlSerializers.dll

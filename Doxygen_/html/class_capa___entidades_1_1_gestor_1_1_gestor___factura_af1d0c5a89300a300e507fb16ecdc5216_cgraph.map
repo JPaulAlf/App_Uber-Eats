@@ -1,0 +1,5 @@
+<map id="Capa_Entidades.Gestor.Gestor_Factura.Calcula_Envio" name="Capa_Entidades.Gestor.Gestor_Factura.Calcula_Envio">
+<area shape="rect" id="node1" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a9c83b50c19bbdb9b296a419cb5a2d056" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="256,5,469,47"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_pago.html#ab6d3fc21e8e94e0b479d6af38cc9fe7f" title="Metodo AsignarCostoColones, asigna costo en colones" alt="" coords="517,5,716,47"/>
+</map>

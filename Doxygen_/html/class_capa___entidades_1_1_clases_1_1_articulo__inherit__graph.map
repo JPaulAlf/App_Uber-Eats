@@ -1,0 +1,5 @@
+<map id="Capa_Entidades.Clases.Articulo" name="Capa_Entidades.Clases.Articulo">
+<area shape="rect" id="node1" title="Clase Articulo, le da forma y sentido a las clases derivadas de esta" alt="" coords="121,5,331,171"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_articulo___cupon.html" title="Clase Articulo_Cupon, la cual hereda de la clase Articulo todos sus metodos y propiedades" alt="" coords="5,219,215,340"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_articulo___producto.html" title="Clase Articulo_Producto, la cual herede de la clase Articulo todos sus metodos y propiedades" alt="" coords="239,233,448,325"/>
+</map>

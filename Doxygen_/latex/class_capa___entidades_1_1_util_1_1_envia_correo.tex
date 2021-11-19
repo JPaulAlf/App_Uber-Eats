@@ -1,0 +1,133 @@
+\hypertarget{class_capa___entidades_1_1_util_1_1_envia_correo}{}\doxysection{Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo Class Reference}
+\label{class_capa___entidades_1_1_util_1_1_envia_correo}\index{Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo}{Envia\+Correo}}, se encarga de construir y de enviar el correo electronico con el mensaje suministrado  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=211pt]{class_capa___entidades_1_1_util_1_1_envia_correo__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo_a8debfda0bb9bbe77cfcc3c95abb04076}{Envia\+Email}} (string p\+Correo\+Destino, string p\+Asunto, string p\+Mensaje)
+\begin{DoxyCompactList}\small\item\em Metodo statico, para que se pueda ser llamado, desde cualquier lugar, y enviar el correo electronico \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Static Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+const string \mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo_a5faa5d1679b99b92b6d850cc3b1a706e}{Correo\+Origen}} = \char`\"{}paul.\+pry.\+utn@gmail.\+com\char`\"{}
+\begin{DoxyCompactList}\small\item\em Correo de la persona/empresa que envia el correo \end{DoxyCompactList}\item 
+const string \mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo_a1851d8949762738dd1c094b16524e0cd}{Contrasenna\+Origen}} = \char`\"{}Agosto0899\char`\"{}
+\begin{DoxyCompactList}\small\item\em Contrasenna del correo de origen \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo}{Envia\+Correo}}, se encarga de construir y de enviar el correo electronico con el mensaje suministrado 
+
+
+
+Definition at line 15 of file Envia\+Correo.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_util_1_1_envia_correo_a8debfda0bb9bbe77cfcc3c95abb04076}\label{class_capa___entidades_1_1_util_1_1_envia_correo_a8debfda0bb9bbe77cfcc3c95abb04076}} 
+\index{Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}!EnviaEmail@{EnviaEmail}}
+\index{EnviaEmail@{EnviaEmail}!Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}}
+\doxysubsubsection{\texorpdfstring{EnviaEmail()}{EnviaEmail()}}
+{\footnotesize\ttfamily static void Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Envia\+Email (\begin{DoxyParamCaption}\item[{string}]{p\+Correo\+Destino,  }\item[{string}]{p\+Asunto,  }\item[{string}]{p\+Mensaje }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metodo statico, para que se pueda ser llamado, desde cualquier lugar, y enviar el correo electronico 
+
+\begin{DoxyReturn}{Returns}
+void
+\end{DoxyReturn}
+
+
+Definition at line 34 of file Envia\+Correo.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{35             \{}
+\DoxyCodeLine{36                 MailMessage mensaje = \textcolor{keyword}{new} MailMessage();}
+\DoxyCodeLine{37                 mensaje.IsBodyHtml = \textcolor{keyword}{true};}
+\DoxyCodeLine{38                 mensaje.Subject = pAsunto;}
+\DoxyCodeLine{39                 mensaje.Body = pMensaje;}
+\DoxyCodeLine{40 }
+\DoxyCodeLine{41                 mensaje.From = \textcolor{keyword}{new} MailAddress(\mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo_a5faa5d1679b99b92b6d850cc3b1a706e}{CorreoOrigen}});}
+\DoxyCodeLine{42                 mensaje.To.Add(pCorreoDestino);}
+\DoxyCodeLine{43 }
+\DoxyCodeLine{44                 SmtpClient smtp = \textcolor{keyword}{new} SmtpClient(\textcolor{stringliteral}{"smtp.gmail.com"}, 587);}
+\DoxyCodeLine{45 }
+\DoxyCodeLine{46                 smtp.Credentials = \textcolor{keyword}{new} NetworkCredential(\mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo_a5faa5d1679b99b92b6d850cc3b1a706e}{CorreoOrigen}}, \mbox{\hyperlink{class_capa___entidades_1_1_util_1_1_envia_correo_a1851d8949762738dd1c094b16524e0cd}{ContrasennaOrigen}});}
+\DoxyCodeLine{47                 smtp.EnableSsl = \textcolor{keyword}{true};}
+\DoxyCodeLine{48 }
+\DoxyCodeLine{49             \textcolor{comment}{// Sirve para enviar un archivo adjunto al correo}}
+\DoxyCodeLine{50             Attachment attachment1 = \textcolor{keyword}{new} Attachment(\textcolor{stringliteral}{@"c:\(\backslash\)temp\(\backslash\)FacturaXML.xml"});}
+\DoxyCodeLine{51             mensaje.Attachments.Add(attachment1);}
+\DoxyCodeLine{52             Attachment attachment2 = \textcolor{keyword}{new} Attachment(\textcolor{stringliteral}{@"c:\(\backslash\)temp\(\backslash\)FacturaCompra.pdf"});}
+\DoxyCodeLine{53             mensaje.Attachments.Add(attachment2);}
+\DoxyCodeLine{54 }
+\DoxyCodeLine{55             smtp.Send(mensaje);}
+\DoxyCodeLine{56             smtp.Dispose();}
+\DoxyCodeLine{57         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Contrasenna\+Origen, and Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Correo\+Origen.
+
+
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_util_1_1_envia_correo_a1851d8949762738dd1c094b16524e0cd}\label{class_capa___entidades_1_1_util_1_1_envia_correo_a1851d8949762738dd1c094b16524e0cd}} 
+\index{Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}!ContrasennaOrigen@{ContrasennaOrigen}}
+\index{ContrasennaOrigen@{ContrasennaOrigen}!Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}}
+\doxysubsubsection{\texorpdfstring{ContrasennaOrigen}{ContrasennaOrigen}}
+{\footnotesize\ttfamily const string Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Contrasenna\+Origen = \char`\"{}Agosto0899\char`\"{}\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+Contrasenna del correo de origen 
+
+Contrasenna de correo de origen
+
+Definition at line 27 of file Envia\+Correo.\+cs.
+
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Envia\+Email().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_util_1_1_envia_correo_a5faa5d1679b99b92b6d850cc3b1a706e}\label{class_capa___entidades_1_1_util_1_1_envia_correo_a5faa5d1679b99b92b6d850cc3b1a706e}} 
+\index{Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}!CorreoOrigen@{CorreoOrigen}}
+\index{CorreoOrigen@{CorreoOrigen}!Capa\_Entidades.Util.EnviaCorreo@{Capa\_Entidades.Util.EnviaCorreo}}
+\doxysubsubsection{\texorpdfstring{CorreoOrigen}{CorreoOrigen}}
+{\footnotesize\ttfamily const string Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Correo\+Origen = \char`\"{}paul.\+pry.\+utn@gmail.\+com\char`\"{}\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+Correo de la persona/empresa que envia el correo 
+
+Correo de origen
+
+Definition at line 21 of file Envia\+Correo.\+cs.
+
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Util.\+Envia\+Correo.\+Envia\+Email().
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Util/\mbox{\hyperlink{_envia_correo_8cs}{Envia\+Correo.\+cs}}\end{DoxyCompactItemize}

@@ -1,0 +1,1059 @@
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.Core.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Calificaciones.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EnvDTE.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Framework.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\stdole.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EnvDTE80.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj80.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.MSXML.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj2.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.pdb
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\itextsharp.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\itextsharp.xml
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\RdlCompile.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\RdlCompile.compiled
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.config
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Calificaciones.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Reportes.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\RdlCompile.cache
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\RdlCompile.compiled
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.Core.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsForms.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsPresentation.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.EF6.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.Linq.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\itextsharp.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EnvDTE.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\stdole.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EnvDTE80.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj80.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.MSXML.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Framework.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj2.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll.config
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll.config
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll.config
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll.config
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\itextsharp.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EnvDTE.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\stdole.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EnvDTE80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.MSXML.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Framework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\VSLangProj2.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\log4net.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\RdlCompile.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\RdlCompile.compiled
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EnvDTE.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\stdole.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EnvDTE80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.MSXML.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Framework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj2.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\RdlCompile.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\RdlCompile.compiled
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\itextsharp.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EnvDTE.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\stdole.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EnvDTE80.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj80.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.MSXML.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Framework.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj2.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\itextsharp.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\RdlCompile.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\RdlCompile.compiled
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe.manifest
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.application
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.Core.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\itextsharp.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EnvDTE.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\stdole.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EnvDTE80.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj80.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.MSXML.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.Build.Framework.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\VSLangProj2.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Entidades.dll.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\BouncyCastle.Crypto.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Common.Logging.Core.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\log4net.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Newtonsoft.Json.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\System.Data.SQLite.dll.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\itextsharp.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.config
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Interop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\RdlCompile.cache
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\RdlCompile.compiled
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe.manifest
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.application
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Interop.AcroPDFLib.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.ResolveComReference.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_OlvidoContrasenna.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Cupones.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Productos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Empresa_Reportes.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Repartidor_Reportes.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_Reportes.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Splash.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.exe
+D:\Carpetas_Sistema_\Documentos\VisualProyectos\PROGRAMACION_3\PROYECTO_FINAL_PROGRAMADO_5CT\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Debug\Capa_Vista.pdb

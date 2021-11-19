@@ -1,0 +1,4 @@
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\Proyecto_AppJustEat\obj\Debug\Proyecto_AppJustEat.csprojAssemblyReference.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\Proyecto_AppJustEat\obj\Debug\Proyecto_AppJustEat.Properties.Resources.resources
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\Proyecto_AppJustEat\obj\Debug\Proyecto_AppJustEat.csproj.GenerateResource.cache
+E:\VisualProyectos\PROYECTOS FINALES PROGRAMADOS UTN\UTN 5CT C# _ AppUberEats\Proyecto_AppJustEat\obj\Debug\Proyecto_AppJustEat.csproj.CoreCompileInputs.cache

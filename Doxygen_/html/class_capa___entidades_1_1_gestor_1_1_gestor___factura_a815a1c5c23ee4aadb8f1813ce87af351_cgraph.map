@@ -1,0 +1,4 @@
+<map id="Capa_Entidades.Gestor.Gestor_Factura.CalculaMonto_Adicionales" name="Capa_Entidades.Gestor.Gestor_Factura.CalculaMonto_Adicionales">
+<area shape="rect" id="node1" title="Metodo que obtiene CalculaMonto_Adicionales, calcula el total de dinero por los adicionales" alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#ac83f41f2e3cde127e97e25e64674ccd0" title="Metodo CalculaMonto_Cupones, calcula el total de dinero por los cupones" alt="" coords="284,5,497,47"/>
+</map>

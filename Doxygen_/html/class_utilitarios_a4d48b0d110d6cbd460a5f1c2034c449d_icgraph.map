@@ -1,0 +1,7 @@
+<map id="Utilitarios.ComputeSha256Hash" name="Utilitarios.ComputeSha256Hash">
+<area shape="rect" id="node1" title="Elabrora el sifrado tipo Hash256" alt="" coords="635,49,841,75"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aeeec3138e7cf38aa4f210974d32fa379" title="Metodo que genera el PDF de Factura" alt="" coords="341,8,554,49"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_factura.html#afef2d3f8d42dbfe24839f6f7f7d4c996" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="308,75,587,116"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#a8623b368b821f41e24b24ed2857e6ff9" title="Metodo que obtiene el PDF de Factura" alt="" coords="31,5,234,47"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#ad2cb098e50b690752f12a825f25d2520" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="5,71,260,127"/>
+</map>

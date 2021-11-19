@@ -1,0 +1,5 @@
+<map id="SqlServerTypes.Utilities.LoadNativeAssemblies" name="SqlServerTypes.Utilities.LoadNativeAssemblies">
+<area shape="rect" id="node1" title="Loads the required native assemblies for the current architecture (x86 or x64)" alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$class_sql_server_types_1_1_utilities.html#a99a67ff33d05fa39d92674a2308fe868" title=" " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$class_sql_server_types_1_1_utilities.html#a1f05c8eb6287cd38aa60121c73e72367" title=" " alt="" coords="427,5,589,47"/>
+</map>

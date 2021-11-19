@@ -1,0 +1,209 @@
+\hypertarget{class_capa___entidades_1_1_clases_1_1_pedido}{}\doxysection{Capa\+\_\+\+Entidades.\+Clases.\+Pedido Class Reference}
+\label{class_capa___entidades_1_1_clases_1_1_pedido}\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido}{Pedido}}, se encarga de almacenar los articulos que compro el usuario  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Clases.\+Pedido\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=234pt]{class_capa___entidades_1_1_clases_1_1_pedido__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_ad4729272e826ace5009dcd70e98f575f}{Pedido}} ()
+\begin{DoxyCompactList}\small\item\em Constructor de clase, sin recibir parametros \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_afce09c57151b838504cca9043d3ec242}{Pedido}} (Date\+Time p\+Fecha, double p\+Distancia\+Pedido)
+\begin{DoxyCompactList}\small\item\em Constructor de clase,recibiendo parametros \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a29471766c5e6dd68a24757c9a490ecff}{Agrega\+Articulo}} (\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}} p\+Articulo)
+\begin{DoxyCompactList}\small\item\em Metodo Agrega\+Pedido, agrega un articulo al pedido \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+Date\+Time \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a316827ea6cef7c4fed58a1eced37aa96}{Fecha\+Pedido}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Fecha\+Pedido \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_ae6af3f7c54f5b18a639ae4598bfaef16}{Distancia\+Pedido}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Distancia\+Pedido \end{DoxyCompactList}\item 
+List$<$ \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}} $>$ \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a5c941410acd6235621b542d04f2b387c}{\+\_\+\+Lista\+Articulos\+Comprados}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em \+\_\+\+Lista\+Articulos\+Comprados \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido}{Pedido}}, se encarga de almacenar los articulos que compro el usuario 
+
+
+
+Definition at line 12 of file Pedido.\+cs.
+
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_pedido_ad4729272e826ace5009dcd70e98f575f}\label{class_capa___entidades_1_1_clases_1_1_pedido_ad4729272e826ace5009dcd70e98f575f}} 
+\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}!Pedido@{Pedido}}
+\index{Pedido@{Pedido}!Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+\doxysubsubsection{\texorpdfstring{Pedido()}{Pedido()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Pedido (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Constructor de clase, sin recibir parametros 
+
+
+
+Definition at line 45 of file Pedido.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{46         \{}
+\DoxyCodeLine{47             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a316827ea6cef7c4fed58a1eced37aa96}{FechaPedido}} = DateTime.Today;}
+\DoxyCodeLine{48             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_ae6af3f7c54f5b18a639ae4598bfaef16}{DistanciaPedido}} = .0;}
+\DoxyCodeLine{49             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a5c941410acd6235621b542d04f2b387c}{\_ListaArticulosComprados}} = \textcolor{keyword}{new} List<Articulo>();}
+\DoxyCodeLine{50         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+\_\+\+Lista\+Articulos\+Comprados, Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Distancia\+Pedido, and Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Fecha\+Pedido.
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_pedido_afce09c57151b838504cca9043d3ec242}\label{class_capa___entidades_1_1_clases_1_1_pedido_afce09c57151b838504cca9043d3ec242}} 
+\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}!Pedido@{Pedido}}
+\index{Pedido@{Pedido}!Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+\doxysubsubsection{\texorpdfstring{Pedido()}{Pedido()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Pedido (\begin{DoxyParamCaption}\item[{Date\+Time}]{p\+Fecha,  }\item[{double}]{p\+Distancia\+Pedido }\end{DoxyParamCaption})}
+
+
+
+Constructor de clase,recibiendo parametros 
+
+
+
+Definition at line 55 of file Pedido.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{56         \{}
+\DoxyCodeLine{57             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a316827ea6cef7c4fed58a1eced37aa96}{FechaPedido}} = pFecha;}
+\DoxyCodeLine{58             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_ae6af3f7c54f5b18a639ae4598bfaef16}{DistanciaPedido}} = pDistanciaPedido;}
+\DoxyCodeLine{59             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a5c941410acd6235621b542d04f2b387c}{\_ListaArticulosComprados}} = \textcolor{keyword}{new} List<Articulo>();}
+\DoxyCodeLine{60         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+\_\+\+Lista\+Articulos\+Comprados, Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Distancia\+Pedido, and Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Fecha\+Pedido.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_pedido_a29471766c5e6dd68a24757c9a490ecff}\label{class_capa___entidades_1_1_clases_1_1_pedido_a29471766c5e6dd68a24757c9a490ecff}} 
+\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}!AgregaArticulo@{AgregaArticulo}}
+\index{AgregaArticulo@{AgregaArticulo}!Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+\doxysubsubsection{\texorpdfstring{AgregaArticulo()}{AgregaArticulo()}}
+{\footnotesize\ttfamily void Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Agrega\+Articulo (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}}}]{p\+Articulo }\end{DoxyParamCaption})}
+
+
+
+Metodo Agrega\+Pedido, agrega un articulo al pedido 
+
+\begin{DoxyReturn}{Returns}
+Void
+\end{DoxyReturn}
+
+
+Definition at line 70 of file Pedido.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{71         \{}
+\DoxyCodeLine{72             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pedido_a5c941410acd6235621b542d04f2b387c}{\_ListaArticulosComprados}}.Add(pArticulo);}
+\DoxyCodeLine{73         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+\_\+\+Lista\+Articulos\+Comprados.
+
+
+
+\doxysubsection{Property Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_pedido_a5c941410acd6235621b542d04f2b387c}\label{class_capa___entidades_1_1_clases_1_1_pedido_a5c941410acd6235621b542d04f2b387c}} 
+\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}!\_ListaArticulosComprados@{\_ListaArticulosComprados}}
+\index{\_ListaArticulosComprados@{\_ListaArticulosComprados}!Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+\doxysubsubsection{\texorpdfstring{\_ListaArticulosComprados}{\_ListaArticulosComprados}}
+{\footnotesize\ttfamily List$<$\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_articulo}{Articulo}}$>$ Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+\_\+\+Lista\+Articulos\+Comprados\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+\+\_\+\+Lista\+Articulos\+Comprados 
+
+Lista de articulos comprados 
+
+Definition at line 37 of file Pedido.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{37 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Agrega\+Articulo(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Calcula\+\_\+\+Sub\+Total(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Calcula\+\_\+\+Sub\+Total\+\_\+\+Gravado(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Calcula\+Monto\+\_\+\+Cupones(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Calcula\+Monto\+\_\+\+Productos(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Obtener\+P\+D\+F(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Obtener\+P\+D\+F\+\_\+\+Guardado\+En\+Ruta\+Seleccionada(), Capa\+\_\+\+Entidades.\+Clases.\+Factura.\+Obtener\+X\+M\+L(), and Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Pedido().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_pedido_ae6af3f7c54f5b18a639ae4598bfaef16}\label{class_capa___entidades_1_1_clases_1_1_pedido_ae6af3f7c54f5b18a639ae4598bfaef16}} 
+\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}!DistanciaPedido@{DistanciaPedido}}
+\index{DistanciaPedido@{DistanciaPedido}!Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+\doxysubsubsection{\texorpdfstring{DistanciaPedido}{DistanciaPedido}}
+{\footnotesize\ttfamily double Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Distancia\+Pedido\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Distancia\+Pedido 
+
+Costo del pedido, por la distancia del mismo 
+
+Definition at line 29 of file Pedido.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{29 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Pago.\+Costo\+Express\+Colones(), and Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Pedido().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_pedido_a316827ea6cef7c4fed58a1eced37aa96}\label{class_capa___entidades_1_1_clases_1_1_pedido_a316827ea6cef7c4fed58a1eced37aa96}} 
+\index{Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}!FechaPedido@{FechaPedido}}
+\index{FechaPedido@{FechaPedido}!Capa\_Entidades.Clases.Pedido@{Capa\_Entidades.Clases.Pedido}}
+\doxysubsubsection{\texorpdfstring{FechaPedido}{FechaPedido}}
+{\footnotesize\ttfamily Date\+Time Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Fecha\+Pedido\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Fecha\+Pedido 
+
+Fecha del pedido 
+
+Definition at line 21 of file Pedido.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{21 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Pedido.\+Pedido().
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Clases/\mbox{\hyperlink{_pedido_8cs}{Pedido.\+cs}}\end{DoxyCompactItemize}

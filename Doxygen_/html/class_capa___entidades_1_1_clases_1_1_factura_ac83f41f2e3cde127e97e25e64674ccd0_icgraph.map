@@ -1,0 +1,10 @@
+<map id="Capa_Entidades.Clases.Factura.CalculaMonto_Cupones" name="Capa_Entidades.Clases.Factura.CalculaMonto_Cupones">
+<area shape="rect" id="node1" title="Metodo CalculaMonto_Cupones, calcula el total de dinero por los cupones" alt="" coords="913,43,1127,84"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#a815a1c5c23ee4aadb8f1813ce87af351" title="Metodo que obtiene CalculaMonto_Adicionales, calcula el total de dinero por los adicionales" alt="" coords="635,9,865,51"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a88eafcf49ef8e25d21b51523fd714f72" title="Metodo que genera el XML de Factura" alt="" coords="643,75,857,116"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aeeec3138e7cf38aa4f210974d32fa379" title="Metodo que genera el PDF de Factura" alt="" coords="341,8,554,49"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_clases_1_1_factura.html#afef2d3f8d42dbfe24839f6f7f7d4c996" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="308,75,587,116"/>
+<area shape="rect" id="node8" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#af927dd7a41a20795cbbddae3dc04bb4e" title="Metodo que obtiene el XML de Factura" alt="" coords="346,140,549,181"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#a8623b368b821f41e24b24ed2857e6ff9" title="Metodo que obtiene el PDF de Factura" alt="" coords="31,5,234,47"/>
+<area shape="rect" id="node7" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#ad2cb098e50b690752f12a825f25d2520" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="5,71,260,127"/>
+</map>

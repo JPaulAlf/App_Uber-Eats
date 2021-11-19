@@ -1,0 +1,4 @@
+<map id="Capa_Entidades.Facade.FacadePago" name="Capa_Entidades.Facade.FacadePago">
+<area shape="rect" id="node1" title="Clase FacadePago, se encarga de realizar calculos para generar el pago" alt="" coords="5,248,247,355"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_pago.html" title="Clase Pago, se encarga de generar un pago, que luego sera ingresado en la tarjeta" alt="" coords="29,5,223,185"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Capa_Entidades.Clases.Usuario" name="Capa_Entidades.Clases.Usuario">
+<area shape="rect" id="node1" title="Clase Usuario, hereda metodos y propiedades de Transporte y de ITransporte" alt="" coords="355,5,564,185"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_usuario___admin.html" title="Clase Usuario_Admin, hereda metodos y propiedades de Usuario" alt="" coords="5,285,215,377"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_usuario___cliente.html" title="Clase Usuario_Cliente, hereda metodos y propiedades de Usuario" alt="" coords="239,277,448,384"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_usuario___comercio.html" title="Clase Usuario_Comercio, hereda metodos y propiedades de Usuario" alt="" coords="472,255,681,406"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_usuario___repartidor.html" title="Clase Usuario_Repartidor, hereda metodos y propiedades de Usuario" alt="" coords="705,233,915,428"/>
+</map>

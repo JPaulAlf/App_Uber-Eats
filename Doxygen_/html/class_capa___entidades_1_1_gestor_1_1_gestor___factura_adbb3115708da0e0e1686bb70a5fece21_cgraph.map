@@ -1,0 +1,8 @@
+<map id="Capa_Entidades.Gestor.Gestor_Factura.CalculaMonto_Total" name="Capa_Entidades.Gestor.Gestor_Factura.CalculaMonto_Total">
+<area shape="rect" id="node1" title="Metodo que obtieneCalculaMonto_Total, calcula el total de la factura" alt="" coords="5,35,208,76"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aa2aeeaf3c15adc3e0f846f4228943499" title="Metodo CalculaMonto_Total, calcula el total de la factura" alt="" coords="256,35,469,76"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a1a63c68038e5db8cb8cc0a82b2fdc28f" title="Metodo Calcula_IVA, calcula el IVA" alt="" coords="517,5,731,47"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a980663db8243909df84a62aadb7f3574" title="Metodo Calcula_SubTotal, calcula monto sin IVA" alt="" coords="779,35,992,76"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a9c83b50c19bbdb9b296a419cb5a2d056" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="1040,35,1253,76"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_clases_1_1_pago.html#ab6d3fc21e8e94e0b479d6af38cc9fe7f" title="Metodo AsignarCostoColones, asigna costo en colones" alt="" coords="1301,35,1500,76"/>
+</map>

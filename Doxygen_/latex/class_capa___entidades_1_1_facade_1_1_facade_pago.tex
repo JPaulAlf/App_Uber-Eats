@@ -1,0 +1,141 @@
+\hypertarget{class_capa___entidades_1_1_facade_1_1_facade_pago}{}\doxysection{Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago Class Reference}
+\label{class_capa___entidades_1_1_facade_1_1_facade_pago}\index{Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago}{Facade\+Pago}}, se encarga de realizar calculos para generar el pago  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=261pt]{class_capa___entidades_1_1_facade_1_1_facade_pago__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago_a930f4f19dfddab271a52b3d4b2b6e05b}{Facade\+Pago}} (\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}} o\+Pago)
+\begin{DoxyCompactList}\small\item\em Constructor de clase, recibiendo parametros debe ser asi para inicalizar el Pago \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago_a9b5c787cb89b7f822549ea5c7ce57fdb}{Calcula\+Costo}} ()
+\begin{DoxyCompactList}\small\item\em Metodo Calcula\+Costo, se encarga de calcular el costo del pago \end{DoxyCompactList}\item 
+string \mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago_a781a4b7ce0b2349ff0e8b6765929f00b}{Generar\+X\+ML}} ()
+\begin{DoxyCompactList}\small\item\em Metodo Generar\+X\+ML, se encarga de la construccion del X\+ML \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}} \mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago_afc7351da9071fee94c0d5f804e495b3a}{p\+Pago}} = null
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago}{Facade\+Pago}}, se encarga de realizar calculos para generar el pago 
+
+
+
+Definition at line 13 of file Facade\+Pago.\+cs.
+
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_facade_1_1_facade_pago_a930f4f19dfddab271a52b3d4b2b6e05b}\label{class_capa___entidades_1_1_facade_1_1_facade_pago_a930f4f19dfddab271a52b3d4b2b6e05b}} 
+\index{Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}!FacadePago@{FacadePago}}
+\index{FacadePago@{FacadePago}!Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}}
+\doxysubsubsection{\texorpdfstring{FacadePago()}{FacadePago()}}
+{\footnotesize\ttfamily Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago.\+Facade\+Pago (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}}}]{o\+Pago }\end{DoxyParamCaption})}
+
+
+
+Constructor de clase, recibiendo parametros debe ser asi para inicalizar el Pago 
+
+
+
+Definition at line 21 of file Facade\+Pago.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{22         \{}
+\DoxyCodeLine{23             \mbox{\hyperlink{class_capa___entidades_1_1_facade_1_1_facade_pago_afc7351da9071fee94c0d5f804e495b3a}{pPago}} = oPago;}
+\DoxyCodeLine{24         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago.\+p\+Pago.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_facade_1_1_facade_pago_a9b5c787cb89b7f822549ea5c7ce57fdb}\label{class_capa___entidades_1_1_facade_1_1_facade_pago_a9b5c787cb89b7f822549ea5c7ce57fdb}} 
+\index{Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}!CalculaCosto@{CalculaCosto}}
+\index{CalculaCosto@{CalculaCosto}!Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}}
+\doxysubsubsection{\texorpdfstring{CalculaCosto()}{CalculaCosto()}}
+{\footnotesize\ttfamily double Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago.\+Calcula\+Costo (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Metodo Calcula\+Costo, se encarga de calcular el costo del pago 
+
+\begin{DoxyReturn}{Returns}
+double
+\end{DoxyReturn}
+
+
+Definition at line 31 of file Facade\+Pago.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{32         \{}
+\DoxyCodeLine{33             \textcolor{keywordflow}{return} 0;}
+\DoxyCodeLine{34         \}}
+
+\end{DoxyCode}
+\mbox{\Hypertarget{class_capa___entidades_1_1_facade_1_1_facade_pago_a781a4b7ce0b2349ff0e8b6765929f00b}\label{class_capa___entidades_1_1_facade_1_1_facade_pago_a781a4b7ce0b2349ff0e8b6765929f00b}} 
+\index{Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}!GenerarXML@{GenerarXML}}
+\index{GenerarXML@{GenerarXML}!Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}}
+\doxysubsubsection{\texorpdfstring{GenerarXML()}{GenerarXML()}}
+{\footnotesize\ttfamily string Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago.\+Generar\+X\+ML (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Metodo Generar\+X\+ML, se encarga de la construccion del X\+ML 
+
+\begin{DoxyReturn}{Returns}
+string
+\end{DoxyReturn}
+
+
+Definition at line 41 of file Facade\+Pago.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{42         \{}
+\DoxyCodeLine{43             \textcolor{keywordflow}{return} \textcolor{stringliteral}{""};}
+\DoxyCodeLine{44         \}}
+
+\end{DoxyCode}
+
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_facade_1_1_facade_pago_afc7351da9071fee94c0d5f804e495b3a}\label{class_capa___entidades_1_1_facade_1_1_facade_pago_afc7351da9071fee94c0d5f804e495b3a}} 
+\index{Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}!pPago@{pPago}}
+\index{pPago@{pPago}!Capa\_Entidades.Facade.FacadePago@{Capa\_Entidades.Facade.FacadePago}}
+\doxysubsubsection{\texorpdfstring{pPago}{pPago}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}} Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago.\+p\+Pago = null\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Definition at line 15 of file Facade\+Pago.\+cs.
+
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Facade.\+Facade\+Pago.\+Facade\+Pago().
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Facade/\mbox{\hyperlink{_facade_pago_8cs}{Facade\+Pago.\+cs}}\end{DoxyCompactItemize}

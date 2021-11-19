@@ -1,0 +1,8 @@
+<map id="Capa_Entidades.Clases.Factura.CalculaMonto_Total_SinEnvio" name="Capa_Entidades.Clases.Factura.CalculaMonto_Total_SinEnvio">
+<area shape="rect" id="node1" title="Metodo CalculaMonto_Total_SinEnvio, calcula el total de la factura sin el envio" alt="" coords="5,39,219,80"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a1a63c68038e5db8cb8cc0a82b2fdc28f" title="Metodo Calcula_IVA, calcula el IVA" alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a079632a27faac3a59bb19ebba705c857" title=" " alt="" coords="267,71,480,112"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a980663db8243909df84a62aadb7f3574" title="Metodo Calcula_SubTotal, calcula monto sin IVA" alt="" coords="528,5,741,47"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a9c83b50c19bbdb9b296a419cb5a2d056" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="789,5,1003,47"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_pago.html#ab6d3fc21e8e94e0b479d6af38cc9fe7f" title="Metodo AsignarCostoColones, asigna costo en colones" alt="" coords="1051,5,1249,47"/>
+</map>

@@ -1,0 +1,401 @@
+\hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta}{}\doxysection{Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta Class Reference}
+\label{class_capa___entidades_1_1_clases_1_1_tarjeta}\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+
+
+Clase Trjeta, se encarga de todo lo que es dinero y montos de pago  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=233pt]{class_capa___entidades_1_1_clases_1_1_tarjeta__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_afdca4df0ba08e18aafc3d52f73d25228}{Tarjeta}} ()
+\begin{DoxyCompactList}\small\item\em Constructor de clase, sin recibir parametros \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a430974f2eccac2968d3652fc38617bde}{Tarjeta}} (string p\+Numero\+Tarjeta, string p\+C\+VV, \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{Tipo\+Tarjeta}} p\+Tipo\+Tarjeta, Date\+Time p\+Fecha\+Vencimiento)
+\begin{DoxyCompactList}\small\item\em Constructor de clase,recibiendo parametros \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_af4e8819dec53b3c9d55ce9bef6ea4bb2}{Agrega\+Pago}} (\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}} p\+Pago)
+\begin{DoxyCompactList}\small\item\em Metodo Agrega\+Pago, agrega un pago a la tarjeta \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a84802cb50933157837dbef1bf79620f4}{validar\+Fecha\+Tarjeta}} ()
+\begin{DoxyCompactList}\small\item\em Metodo validar\+Fecha\+Tarjeta, se encarga de comprobar que la tarjeta no este vencida \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_aa7da51d197b57e8e5e17c958f0c88879}{validar\+Numero\+Tarjeta}} ()
+\begin{DoxyCompactList}\small\item\em Metodo validar\+Numero\+Tarjeta, se encarga de comprobar que el numero de la tarjeta sea valido \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a78b3fed787fd75c94f75fe95176d99a0}{validar\+Tipo\+Tarjeta}} ()
+\begin{DoxyCompactList}\small\item\em Metodo validar\+Tipo\+Tarjeta, se encarga de comprobar que el numero de la tarjeta sea valido para su tipo \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+string \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{Numero\+Tarjeta}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Numero\+Tarjeta \end{DoxyCompactList}\item 
+Date\+Time \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a91f9988979253a974d9d57c15b04d769}{Fecha\+Vencimiento}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Fecha\+Vencimiento \end{DoxyCompactList}\item 
+string \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a633942268611515a70c1d3448a4b01cb}{C\+VV}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em C\+VV \end{DoxyCompactList}\item 
+List$<$ \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}} $>$ \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a60b7e5d891a62731ab124c01aff6b6d1}{\+\_\+\+Pagos\+Tarjeta}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em \+\_\+\+Pagos\+Tarjeta \end{DoxyCompactList}\item 
+\mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{Tipo\+Tarjeta}} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}{\+\_\+\+Tipo\+Tarjeta}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em \+\_\+\+Tipo\+Tarjeta \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase Trjeta, se encarga de todo lo que es dinero y montos de pago 
+
+
+
+Definition at line 12 of file Tarjeta.\+cs.
+
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_afdca4df0ba08e18aafc3d52f73d25228}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_afdca4df0ba08e18aafc3d52f73d25228}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!Tarjeta@{Tarjeta}}
+\index{Tarjeta@{Tarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{Tarjeta()}{Tarjeta()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Constructor de clase, sin recibir parametros 
+
+
+
+Definition at line 61 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{62         \{}
+\DoxyCodeLine{63             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}} = \textcolor{stringliteral}{""};}
+\DoxyCodeLine{64             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a633942268611515a70c1d3448a4b01cb}{CVV}} = \textcolor{stringliteral}{""};}
+\DoxyCodeLine{65 }
+\DoxyCodeLine{66             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a60b7e5d891a62731ab124c01aff6b6d1}{\_PagosTarjeta}} = \textcolor{keyword}{new} List<Pago>();}
+\DoxyCodeLine{67         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Pagos\+Tarjeta, Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+C\+VV, and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Numero\+Tarjeta.
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a430974f2eccac2968d3652fc38617bde}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a430974f2eccac2968d3652fc38617bde}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!Tarjeta@{Tarjeta}}
+\index{Tarjeta@{Tarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{Tarjeta()}{Tarjeta()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta (\begin{DoxyParamCaption}\item[{string}]{p\+Numero\+Tarjeta,  }\item[{string}]{p\+C\+VV,  }\item[{\mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{Tipo\+Tarjeta}}}]{p\+Tipo\+Tarjeta,  }\item[{Date\+Time}]{p\+Fecha\+Vencimiento }\end{DoxyParamCaption})}
+
+
+
+Constructor de clase,recibiendo parametros 
+
+
+
+Definition at line 72 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{73         \{}
+\DoxyCodeLine{74             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}} = pNumeroTarjeta;}
+\DoxyCodeLine{75             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a633942268611515a70c1d3448a4b01cb}{CVV}} = pCVV;}
+\DoxyCodeLine{76             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}{\_TipoTarjeta}} = pTipoTarjeta;}
+\DoxyCodeLine{77             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a91f9988979253a974d9d57c15b04d769}{FechaVencimiento}} = pFechaVencimiento;}
+\DoxyCodeLine{78         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Tipo\+Tarjeta, Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+C\+VV, Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Fecha\+Vencimiento, and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Numero\+Tarjeta.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_af4e8819dec53b3c9d55ce9bef6ea4bb2}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_af4e8819dec53b3c9d55ce9bef6ea4bb2}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!AgregaPago@{AgregaPago}}
+\index{AgregaPago@{AgregaPago}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{AgregaPago()}{AgregaPago()}}
+{\footnotesize\ttfamily void Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Agrega\+Pago (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}}}]{p\+Pago }\end{DoxyParamCaption})}
+
+
+
+Metodo Agrega\+Pago, agrega un pago a la tarjeta 
+
+\begin{DoxyReturn}{Returns}
+Void
+\end{DoxyReturn}
+
+
+Definition at line 88 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{89         \{}
+\DoxyCodeLine{90             this.\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a60b7e5d891a62731ab124c01aff6b6d1}{\_PagosTarjeta}}.Add(pPago);}
+\DoxyCodeLine{91         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Pagos\+Tarjeta.
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a84802cb50933157837dbef1bf79620f4}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a84802cb50933157837dbef1bf79620f4}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!validarFechaTarjeta@{validarFechaTarjeta}}
+\index{validarFechaTarjeta@{validarFechaTarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{validarFechaTarjeta()}{validarFechaTarjeta()}}
+{\footnotesize\ttfamily bool Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Fecha\+Tarjeta (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Metodo validar\+Fecha\+Tarjeta, se encarga de comprobar que la tarjeta no este vencida 
+
+\begin{DoxyReturn}{Returns}
+Bool value
+\end{DoxyReturn}
+
+
+Definition at line 97 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{98     \{}
+\DoxyCodeLine{99             \textcolor{keywordflow}{return} (\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a91f9988979253a974d9d57c15b04d769}{FechaVencimiento}}.Month >= DateTime.Today.Month \&\& \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a91f9988979253a974d9d57c15b04d769}{FechaVencimiento}}.Year >= DateTime.Today.Year);}
+\DoxyCodeLine{100     \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Fecha\+Vencimiento.
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_aa7da51d197b57e8e5e17c958f0c88879}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_aa7da51d197b57e8e5e17c958f0c88879}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!validarNumeroTarjeta@{validarNumeroTarjeta}}
+\index{validarNumeroTarjeta@{validarNumeroTarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{validarNumeroTarjeta()}{validarNumeroTarjeta()}}
+{\footnotesize\ttfamily bool Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Numero\+Tarjeta (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Metodo validar\+Numero\+Tarjeta, se encarga de comprobar que el numero de la tarjeta sea valido 
+
+\begin{DoxyReturn}{Returns}
+Bool value
+\end{DoxyReturn}
+
+
+Definition at line 107 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{108     \{}
+\DoxyCodeLine{109         \textcolor{keywordtype}{int} s1 = 0, s2 = 0;}
+\DoxyCodeLine{110         String reversa = \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.Reverse<\textcolor{keywordtype}{char}>().ToString();}
+\DoxyCodeLine{111 }
+\DoxyCodeLine{112         \textcolor{keywordflow}{for} (\textcolor{keywordtype}{int} i = 0; i < \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.Length; i++)}
+\DoxyCodeLine{113         \{}
+\DoxyCodeLine{114             \textcolor{keywordtype}{int} digito = Convert.ToInt32(\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.Substring(\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.Length -\/ 1 -\/ i, 1));}
+\DoxyCodeLine{115                 \textcolor{keywordflow}{if} (i \% 2 == 0)}
+\DoxyCodeLine{116             \{}
+\DoxyCodeLine{117                 s1 += digito;}
+\DoxyCodeLine{118             \}}
+\DoxyCodeLine{119             \textcolor{keywordflow}{else}}
+\DoxyCodeLine{120             \{}
+\DoxyCodeLine{121                 s2 += 2 * digito;}
+\DoxyCodeLine{122                 \textcolor{keywordflow}{if} (digito >= 5)}
+\DoxyCodeLine{123                 \{}
+\DoxyCodeLine{124                     s2 -\/= 9;}
+\DoxyCodeLine{125                 \}}
+\DoxyCodeLine{126             \}}
+\DoxyCodeLine{127         \}}
+\DoxyCodeLine{128         \textcolor{keywordflow}{if} ((s1 + s2) \% 10 == 0)}
+\DoxyCodeLine{129         \{}
+\DoxyCodeLine{130             \textcolor{keywordflow}{return} \textcolor{keyword}{true};}
+\DoxyCodeLine{131         \}}
+\DoxyCodeLine{132         \textcolor{keywordflow}{return} \textcolor{keyword}{false};}
+\DoxyCodeLine{133         \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Numero\+Tarjeta.
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a78b3fed787fd75c94f75fe95176d99a0}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a78b3fed787fd75c94f75fe95176d99a0}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!validarTipoTarjeta@{validarTipoTarjeta}}
+\index{validarTipoTarjeta@{validarTipoTarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{validarTipoTarjeta()}{validarTipoTarjeta()}}
+{\footnotesize\ttfamily bool Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Tipo\+Tarjeta (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Metodo validar\+Tipo\+Tarjeta, se encarga de comprobar que el numero de la tarjeta sea valido para su tipo 
+
+\begin{DoxyReturn}{Returns}
+Bool value
+\end{DoxyReturn}
+
+
+Definition at line 140 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{141     \{}
+\DoxyCodeLine{142         \textcolor{keywordtype}{int} longTarjeta = \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.Length;}
+\DoxyCodeLine{143         \textcolor{keywordtype}{int} longCVV = \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a633942268611515a70c1d3448a4b01cb}{CVV}}.Length;}
+\DoxyCodeLine{144         \textcolor{keywordtype}{char} a, b, c;}
+\DoxyCodeLine{145         \textcolor{keywordflow}{switch} (\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}{\_TipoTarjeta}})}
+\DoxyCodeLine{146         \{}
+\DoxyCodeLine{147             \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{TipoTarjeta}}.VISA:}
+\DoxyCodeLine{148                 \textcolor{keywordflow}{if} (longTarjeta == 16 \&\& longCVV == 3)}
+\DoxyCodeLine{149                 \{}
+\DoxyCodeLine{150                     a = \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.ElementAt<\textcolor{keywordtype}{char}>(0);}
+\DoxyCodeLine{151                     \textcolor{keywordflow}{if} (a == \textcolor{charliteral}{'4'})}
+\DoxyCodeLine{152                     \{}
+\DoxyCodeLine{153                         \textcolor{keywordflow}{return} \textcolor{keyword}{true};}
+\DoxyCodeLine{154                     \}}
+\DoxyCodeLine{155                 \}}
+\DoxyCodeLine{156                 \textcolor{keywordflow}{break};}
+\DoxyCodeLine{157             \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{TipoTarjeta}}.MASTER\_CARD:}
+\DoxyCodeLine{158                 \textcolor{keywordflow}{if} (longTarjeta == 16 \&\& longCVV == 3)}
+\DoxyCodeLine{159                 \{}
+\DoxyCodeLine{160                     b = \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.ElementAt<\textcolor{keywordtype}{char}>(0);}
+\DoxyCodeLine{161                     c = \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}{NumeroTarjeta}}.ElementAt<\textcolor{keywordtype}{char}>(1);}
+\DoxyCodeLine{162                     \textcolor{keywordflow}{if} (b == \textcolor{charliteral}{'5'} \&\& c == \textcolor{charliteral}{'1'} || b == \textcolor{charliteral}{'5'} \&\& c == \textcolor{charliteral}{'2'} || b == \textcolor{charliteral}{'5'} \&\& c == \textcolor{charliteral}{'3'} || b == \textcolor{charliteral}{'5'} \&\& c == \textcolor{charliteral}{'4'} || b == \textcolor{charliteral}{'5'} \&\& c == \textcolor{charliteral}{'5'})}
+\DoxyCodeLine{163                     \{}
+\DoxyCodeLine{164                         \textcolor{keywordflow}{return} \textcolor{keyword}{true};}
+\DoxyCodeLine{165                     \}}
+\DoxyCodeLine{166                 \}}
+\DoxyCodeLine{167                 \textcolor{keywordflow}{break};}
+\DoxyCodeLine{168         \}}
+\DoxyCodeLine{169         \textcolor{keywordflow}{return} \textcolor{keyword}{false};}
+\DoxyCodeLine{170     \}}
+
+\end{DoxyCode}
+
+
+References Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Tipo\+Tarjeta, Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+C\+VV, and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Numero\+Tarjeta.
+
+
+
+\doxysubsection{Property Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a60b7e5d891a62731ab124c01aff6b6d1}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a60b7e5d891a62731ab124c01aff6b6d1}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!\_PagosTarjeta@{\_PagosTarjeta}}
+\index{\_PagosTarjeta@{\_PagosTarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{\_PagosTarjeta}{\_PagosTarjeta}}
+{\footnotesize\ttfamily List$<$\mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_pago}{Pago}}$>$ Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Pagos\+Tarjeta\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+\+\_\+\+Pagos\+Tarjeta 
+
+Almacena todos los pagos efectuados 
+
+Definition at line 45 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{45 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Agrega\+Pago(), and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a2fa6be3974f66e3a3ad182df75a65213}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!\_TipoTarjeta@{\_TipoTarjeta}}
+\index{\_TipoTarjeta@{\_TipoTarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{\_TipoTarjeta}{\_TipoTarjeta}}
+{\footnotesize\ttfamily \mbox{\hyperlink{_tipo_tarjeta_8cs_a7b9bee44d937449fa100c92d7402dcd9}{Tipo\+Tarjeta}} Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+\_\+\+Tipo\+Tarjeta\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+\+\_\+\+Tipo\+Tarjeta 
+
+Confirma el tipo de tarjeta del usuario 
+
+Definition at line 53 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{53 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Tarjeta.\+Crea\+Tarjeta(), Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta(), and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Tipo\+Tarjeta().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a633942268611515a70c1d3448a4b01cb}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a633942268611515a70c1d3448a4b01cb}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!CVV@{CVV}}
+\index{CVV@{CVV}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{CVV}{CVV}}
+{\footnotesize\ttfamily string Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+C\+VV\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+C\+VV 
+
+Codigo de seguridad de la tarjeta del usuario 
+
+Definition at line 37 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{37 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta(), and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Tipo\+Tarjeta().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_a91f9988979253a974d9d57c15b04d769}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_a91f9988979253a974d9d57c15b04d769}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!FechaVencimiento@{FechaVencimiento}}
+\index{FechaVencimiento@{FechaVencimiento}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{FechaVencimiento}{FechaVencimiento}}
+{\footnotesize\ttfamily Date\+Time Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Fecha\+Vencimiento\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Fecha\+Vencimiento 
+
+Fecha de vencimiento de la tarjeta 
+
+Definition at line 29 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{29 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta(), and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Fecha\+Tarjeta().
+
+\mbox{\Hypertarget{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}\label{class_capa___entidades_1_1_clases_1_1_tarjeta_ab6b63ec11e8a1dccac71d1835e3e15f1}} 
+\index{Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}!NumeroTarjeta@{NumeroTarjeta}}
+\index{NumeroTarjeta@{NumeroTarjeta}!Capa\_Entidades.Clases.Tarjeta@{Capa\_Entidades.Clases.Tarjeta}}
+\doxysubsubsection{\texorpdfstring{NumeroTarjeta}{NumeroTarjeta}}
+{\footnotesize\ttfamily string Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Numero\+Tarjeta\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Numero\+Tarjeta 
+
+Numero de la tarjeta del usuario 
+
+Definition at line 21 of file Tarjeta.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{21 \{ \textcolor{keyword}{get}; \textcolor{keyword}{set}; \}}
+
+\end{DoxyCode}
+
+
+Referenced by Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+Tarjeta(), Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Numero\+Tarjeta(), and Capa\+\_\+\+Entidades.\+Clases.\+Tarjeta.\+validar\+Tipo\+Tarjeta().
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Clases/\mbox{\hyperlink{_tarjeta_8cs}{Tarjeta.\+cs}}\end{DoxyCompactItemize}

@@ -1,0 +1,76 @@
+\hypertarget{class_capa___entidades_1_1_factory_1_1_factory_usuario}{}\doxysection{Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Usuario Class Reference}
+\label{class_capa___entidades_1_1_factory_1_1_factory_usuario}\index{Capa\_Entidades.Factory.FactoryUsuario@{Capa\_Entidades.Factory.FactoryUsuario}}
+
+
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_usuario}{Factory\+Usuario}}, se encarga de cosntruir el tipo de usuario  
+
+
+
+
+Collaboration diagram for Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Usuario\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{class_capa___entidades_1_1_factory_1_1_factory_usuario__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_usuario}{Usuario}} \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_usuario_a167d8db33fc696be5894a1b7d06bdd8c}{crea\+Usuario}} (\mbox{\hyperlink{_tipo_usuario_8cs_af3309baeacbf8acc46c3654b2d92cf65}{Tipo\+Usuario}} p\+Tipo)
+\begin{DoxyCompactList}\small\item\em Metodo crea\+Usuario, se encarga de la construccion del objeto usuario \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clase \mbox{\hyperlink{class_capa___entidades_1_1_factory_1_1_factory_usuario}{Factory\+Usuario}}, se encarga de cosntruir el tipo de usuario 
+
+
+
+Definition at line 14 of file Factory\+Usuario.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_capa___entidades_1_1_factory_1_1_factory_usuario_a167d8db33fc696be5894a1b7d06bdd8c}\label{class_capa___entidades_1_1_factory_1_1_factory_usuario_a167d8db33fc696be5894a1b7d06bdd8c}} 
+\index{Capa\_Entidades.Factory.FactoryUsuario@{Capa\_Entidades.Factory.FactoryUsuario}!creaUsuario@{creaUsuario}}
+\index{creaUsuario@{creaUsuario}!Capa\_Entidades.Factory.FactoryUsuario@{Capa\_Entidades.Factory.FactoryUsuario}}
+\doxysubsubsection{\texorpdfstring{creaUsuario()}{creaUsuario()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_usuario}{Usuario}} Capa\+\_\+\+Entidades.\+Factory.\+Factory\+Usuario.\+crea\+Usuario (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{_tipo_usuario_8cs_af3309baeacbf8acc46c3654b2d92cf65}{Tipo\+Usuario}}}]{p\+Tipo }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metodo crea\+Usuario, se encarga de la construccion del objeto usuario 
+
+\begin{DoxyReturn}{Returns}
+Usuario
+\end{DoxyReturn}
+
+
+Definition at line 21 of file Factory\+Usuario.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{22         \{}
+\DoxyCodeLine{23             \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_usuario}{Usuario}} instanciaUsuario = \textcolor{keyword}{null};}
+\DoxyCodeLine{24             \textcolor{keywordflow}{switch} (pTipo)}
+\DoxyCodeLine{25             \{}
+\DoxyCodeLine{26                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_usuario_8cs_af3309baeacbf8acc46c3654b2d92cf65}{TipoUsuario}}.CLIENTE:}
+\DoxyCodeLine{27                     instanciaUsuario = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_usuario___cliente}{Usuario\_Cliente}}();}
+\DoxyCodeLine{28                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{29                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_usuario_8cs_af3309baeacbf8acc46c3654b2d92cf65}{TipoUsuario}}.COMERCIO:}
+\DoxyCodeLine{30                     instanciaUsuario = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_usuario___comercio}{Usuario\_Comercio}}();}
+\DoxyCodeLine{31                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{32                 \textcolor{keywordflow}{case} \mbox{\hyperlink{_tipo_usuario_8cs_af3309baeacbf8acc46c3654b2d92cf65}{TipoUsuario}}.REPARTIDOR:}
+\DoxyCodeLine{33                     instanciaUsuario = \textcolor{keyword}{new} \mbox{\hyperlink{class_capa___entidades_1_1_clases_1_1_usuario___repartidor}{Usuario\_Repartidor}}();}
+\DoxyCodeLine{34                     \textcolor{keywordflow}{break};}
+\DoxyCodeLine{35             \}}
+\DoxyCodeLine{36             \textcolor{keywordflow}{return} instanciaUsuario;}
+\DoxyCodeLine{37         \}}
+
+\end{DoxyCode}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Factory/\mbox{\hyperlink{_factory_usuario_8cs}{Factory\+Usuario.\+cs}}\end{DoxyCompactItemize}

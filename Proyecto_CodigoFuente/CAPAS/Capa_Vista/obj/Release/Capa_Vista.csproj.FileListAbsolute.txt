@@ -1,0 +1,513 @@
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\log4net.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Vista.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\BouncyCastle.Crypto.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Common.Logging.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\EntityFramework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\EntityFramework.SqlServer.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\GMap.NET.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\log4net.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Newtonsoft.Json.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\EnvDTE.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\stdole.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\EnvDTE80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\VSLangProj.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\VSLangProj80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.MSXML.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Framework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\VSLangProj2.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\BouncyCastle.Crypto.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Common.Logging.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Common.Logging.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\EntityFramework.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\EntityFramework.SqlServer.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\log4net.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Newtonsoft.Json.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.XmlSerializers.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\bin\Release\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Splash.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\RdlCompile.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\RdlCompile.compiled
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\UTN 5CT C# _ AppUberEats\CAPAS\Capa_Vista\obj\Release\Capa_Vista.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\log4net.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Vista.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\BouncyCastle.Crypto.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.SqlServer.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\GMap.NET.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\log4net.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Newtonsoft.Json.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\itextsharp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EnvDTE.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\stdole.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EnvDTE80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\VSLangProj.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\VSLangProj80.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.MSXML.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Framework.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\VSLangProj2.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\BouncyCastle.Crypto.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.SqlServer.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\log4net.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Newtonsoft.Json.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.dll.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\itextsharp.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.XmlSerializers.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.exe.config
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Interop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Splash.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\RdlCompile.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\RdlCompile.compiled
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.exe
+E:\VisualProyectos\JohnPaulAlfaroCarballo_ProyectoProgramado\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\log4net.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Vista.exe.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Vista.exe
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Vista.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\BouncyCastle.Crypto.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.SqlServer.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\GMap.NET.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\GMap.NET.WindowsForms.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\GMap.NET.WindowsPresentation.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\log4net.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.SqlServer.Types.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Newtonsoft.Json.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.EF6.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.Linq.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\itextsharp.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EnvDTE.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\stdole.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EnvDTE80.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\VSLangProj.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\VSLangProj80.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.MSXML.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.Build.Framework.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\VSLangProj2.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Entidades.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Logica_Negocios.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\BouncyCastle.Crypto.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Common.Logging.Core.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\EntityFramework.SqlServer.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.pdb
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Gma.QrCodeNet.Encoding.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\log4net.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Newtonsoft.Json.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\System.Data.SQLite.dll.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\itextsharp.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Capa_Acceso_Datos.XmlSerializers.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\Interop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\bin\Release\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csprojAssemblyReference.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.exe.config
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Interop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\AxInterop.AcroPDFLib.dll
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.ResolveComReference.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn_OlvidoContrasenna.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.LogIn_RegistroNuevoUsuario.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador_Mantenimiento.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Administrador_RegistroUsuario.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_AceptarPedidos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_ActualizarDatos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Cupones.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Productos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Empresa_Reportes.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_AceptarPedido.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_ActualizarDatos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_EntregaPedido.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Repartidor_Reportes.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_ActualizarDatos.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_CalificarPedido.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_Reportes.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Menu_Usuario_SolicitudProducto.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Splash.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.Properties.Resources.resources
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.GenerateResource.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\RdlCompile.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\RdlCompile.compiled
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.csproj.CopyComplete
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.exe
+E:\VisualProyectos\901100632_JohnPaulAlfaroCarballo\Proyecto_CodigoFuente\CAPAS\Capa_Vista\obj\Release\Capa_Vista.pdb

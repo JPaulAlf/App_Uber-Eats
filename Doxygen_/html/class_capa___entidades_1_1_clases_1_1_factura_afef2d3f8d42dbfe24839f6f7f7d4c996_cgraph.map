@@ -1,0 +1,16 @@
+<map id="Capa_Entidades.Clases.Factura.ObtenerPDF_GuardadoEnRutaSeleccionada" name="Capa_Entidades.Clases.Factura.ObtenerPDF_GuardadoEnRutaSeleccionada">
+<area shape="rect" id="node1" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="5,232,284,273"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a7262f263849273b4ecfb0d6b43e7bcfb" title="Metodo que agrega una imagen/slogan al PDF creado" alt="" coords="332,5,545,47"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a9c83b50c19bbdb9b296a419cb5a2d056" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="1377,287,1591,328"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a1a63c68038e5db8cb8cc0a82b2fdc28f" title="Metodo Calcula_IVA, calcula el IVA" alt="" coords="855,279,1068,320"/>
+<area shape="rect" id="node7" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a079632a27faac3a59bb19ebba705c857" title=" " alt="" coords="593,291,807,332"/>
+<area shape="rect" id="node8" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aa2aeeaf3c15adc3e0f846f4228943499" title="Metodo CalculaMonto_Total, calcula el total de la factura" alt="" coords="593,356,807,397"/>
+<area shape="rect" id="node9" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a7aa654c12e7e443f66a989b052f19ce1" title="Metodo CalculaMonto_Total_Dolares, calcula el total de la factura en dolares" alt="" coords="593,173,807,215"/>
+<area shape="rect" id="node10" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a1231c09280fcec37ae042445e55043da" title="Metodo CalculaMonto_Total_SinEnvio, calcula el total de la factura sin el envio" alt="" coords="332,232,545,273"/>
+<area shape="rect" id="node11" href="$class_utilitarios.html#a4d48b0d110d6cbd460a5f1c2034c449d" title="Elabrora el sifrado tipo Hash256" alt="" coords="335,399,542,426"/>
+<area shape="rect" id="node12" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a88eafcf49ef8e25d21b51523fd714f72" title="Metodo que genera el XML de Factura" alt="" coords="332,468,545,509"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_pago.html#ab6d3fc21e8e94e0b479d6af38cc9fe7f" title="Metodo AsignarCostoColones, asigna costo en colones" alt="" coords="1639,287,1837,328"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a980663db8243909df84a62aadb7f3574" title="Metodo Calcula_SubTotal, calcula monto sin IVA" alt="" coords="1116,287,1329,328"/>
+<area shape="rect" id="node13" href="$class_capa___entidades_1_1_clases_1_1_factura.html#ac83f41f2e3cde127e97e25e64674ccd0" title="Metodo CalculaMonto_Cupones, calcula el total de dinero por los cupones" alt="" coords="593,421,807,463"/>
+<area shape="rect" id="node14" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a8aa6642cd8f8dd13cb3f0896d775448b" title="Metodo CalculaMonto_Productos, calcula el total de dinero por los productos" alt="" coords="593,487,807,528"/>
+</map>

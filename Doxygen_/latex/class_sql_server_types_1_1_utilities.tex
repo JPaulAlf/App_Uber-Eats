@@ -1,0 +1,159 @@
+\hypertarget{class_sql_server_types_1_1_utilities}{}\doxysection{Sql\+Server\+Types.\+Utilities Class Reference}
+\label{class_sql_server_types_1_1_utilities}\index{SqlServerTypes.Utilities@{SqlServerTypes.Utilities}}
+
+
+Utility methods related to C\+LR Types for S\+QL Server  
+
+
+
+
+Collaboration diagram for Sql\+Server\+Types.\+Utilities\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=210pt]{class_sql_server_types_1_1_utilities__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \mbox{\hyperlink{class_sql_server_types_1_1_utilities_ae14317d7185c1c803477f94f3457654e}{Load\+Native\+Assemblies}} (string root\+Application\+Path)
+\begin{DoxyCompactList}\small\item\em Loads the required native assemblies for the current architecture (x86 or x64) \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static Int\+Ptr \mbox{\hyperlink{class_sql_server_types_1_1_utilities_a1f05c8eb6287cd38aa60121c73e72367}{Load\+Library}} (string libname)
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \mbox{\hyperlink{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868}{Load\+Native\+Assembly}} (string native\+Binary\+Path, string assembly\+Name)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Utility methods related to C\+LR Types for S\+QL Server 
+
+
+
+Definition at line 10 of file Loader.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_sql_server_types_1_1_utilities_a1f05c8eb6287cd38aa60121c73e72367}\label{class_sql_server_types_1_1_utilities_a1f05c8eb6287cd38aa60121c73e72367}} 
+\index{SqlServerTypes.Utilities@{SqlServerTypes.Utilities}!LoadLibrary@{LoadLibrary}}
+\index{LoadLibrary@{LoadLibrary}!SqlServerTypes.Utilities@{SqlServerTypes.Utilities}}
+\doxysubsubsection{\texorpdfstring{LoadLibrary()}{LoadLibrary()}}
+{\footnotesize\ttfamily static Int\+Ptr Sql\+Server\+Types.\+Utilities.\+Load\+Library (\begin{DoxyParamCaption}\item[{string}]{libname }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Referenced by Sql\+Server\+Types.\+Utilities.\+Load\+Native\+Assembly().
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_sql_server_types_1_1_utilities_a1f05c8eb6287cd38aa60121c73e72367_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_sql_server_types_1_1_utilities_ae14317d7185c1c803477f94f3457654e}\label{class_sql_server_types_1_1_utilities_ae14317d7185c1c803477f94f3457654e}} 
+\index{SqlServerTypes.Utilities@{SqlServerTypes.Utilities}!LoadNativeAssemblies@{LoadNativeAssemblies}}
+\index{LoadNativeAssemblies@{LoadNativeAssemblies}!SqlServerTypes.Utilities@{SqlServerTypes.Utilities}}
+\doxysubsubsection{\texorpdfstring{LoadNativeAssemblies()}{LoadNativeAssemblies()}}
+{\footnotesize\ttfamily static void Sql\+Server\+Types.\+Utilities.\+Load\+Native\+Assemblies (\begin{DoxyParamCaption}\item[{string}]{root\+Application\+Path }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Loads the required native assemblies for the current architecture (x86 or x64) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em root\+Application\+Path} & Root path of the current application. Use Server.\+Map\+Path(\char`\"{}.\char`\"{}) for A\+S\+P.\+N\+ET applications and App\+Domain.\+Current\+Domain.\+Base\+Directory for desktop applications. \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 22 of file Loader.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{23         \{}
+\DoxyCodeLine{24             var nativeBinaryPath = IntPtr.Size > 4}
+\DoxyCodeLine{25                 ? Path.Combine(rootApplicationPath, \textcolor{stringliteral}{@"SqlServerTypes\(\backslash\)x64\(\backslash\)"})}
+\DoxyCodeLine{26                 : Path.Combine(rootApplicationPath, \textcolor{stringliteral}{@"SqlServerTypes\(\backslash\)x86\(\backslash\)"});}
+\DoxyCodeLine{27 }
+\DoxyCodeLine{28             \mbox{\hyperlink{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868}{LoadNativeAssembly}}(nativeBinaryPath, \textcolor{stringliteral}{"msvcr120.dll"});}
+\DoxyCodeLine{29             \mbox{\hyperlink{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868}{LoadNativeAssembly}}(nativeBinaryPath, \textcolor{stringliteral}{"SqlServerSpatial140.dll"});}
+\DoxyCodeLine{30         \}}
+
+\end{DoxyCode}
+
+
+References Sql\+Server\+Types.\+Utilities.\+Load\+Native\+Assembly().
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_sql_server_types_1_1_utilities_ae14317d7185c1c803477f94f3457654e_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868}\label{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868}} 
+\index{SqlServerTypes.Utilities@{SqlServerTypes.Utilities}!LoadNativeAssembly@{LoadNativeAssembly}}
+\index{LoadNativeAssembly@{LoadNativeAssembly}!SqlServerTypes.Utilities@{SqlServerTypes.Utilities}}
+\doxysubsubsection{\texorpdfstring{LoadNativeAssembly()}{LoadNativeAssembly()}}
+{\footnotesize\ttfamily static void Sql\+Server\+Types.\+Utilities.\+Load\+Native\+Assembly (\begin{DoxyParamCaption}\item[{string}]{native\+Binary\+Path,  }\item[{string}]{assembly\+Name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+Definition at line 32 of file Loader.\+cs.
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{33         \{}
+\DoxyCodeLine{34             var path = Path.Combine(nativeBinaryPath, assemblyName);}
+\DoxyCodeLine{35             var ptr = \mbox{\hyperlink{class_sql_server_types_1_1_utilities_a1f05c8eb6287cd38aa60121c73e72367}{LoadLibrary}}(path);}
+\DoxyCodeLine{36             \textcolor{keywordflow}{if} (ptr == IntPtr.Zero)}
+\DoxyCodeLine{37             \{}
+\DoxyCodeLine{38                 \textcolor{keywordflow}{throw} \textcolor{keyword}{new} Exception(\textcolor{keywordtype}{string}.Format(}
+\DoxyCodeLine{39                     \textcolor{stringliteral}{"Error loading \{0\} (ErrorCode: \{1\})"},}
+\DoxyCodeLine{40                     assemblyName,}
+\DoxyCodeLine{41                     Marshal.GetLastWin32Error()));}
+\DoxyCodeLine{42             \}}
+\DoxyCodeLine{43         \}}
+
+\end{DoxyCode}
+
+
+References Sql\+Server\+Types.\+Utilities.\+Load\+Library().
+
+
+
+Referenced by Sql\+Server\+Types.\+Utilities.\+Load\+Native\+Assemblies().
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_sql_server_types_1_1_utilities_a99a67ff33d05fa39d92674a2308fe868_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+Visual\+Proyectos/\+P\+R\+O\+Y\+E\+C\+T\+O\+S F\+I\+N\+A\+L\+E\+S P\+R\+O\+G\+R\+A\+M\+A\+D\+O\+S U\+T\+N/\+U\+T\+N 5\+C\+T C\# \+\_\+ App\+Uber\+Eats/\+C\+A\+P\+A\+S/\+Capa\+\_\+\+Logica/\+Sql\+Server\+Types/\mbox{\hyperlink{_loader_8cs}{Loader.\+cs}}\end{DoxyCompactItemize}

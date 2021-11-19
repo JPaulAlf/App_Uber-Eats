@@ -1,0 +1,12 @@
+<map id="Capa_Entidades.Gestor.Gestor_Factura.ObtenerXML" name="Capa_Entidades.Gestor.Gestor_Factura.ObtenerXML">
+<area shape="rect" id="node1" title="Metodo que obtiene el XML de Factura" alt="" coords="5,141,208,183"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a88eafcf49ef8e25d21b51523fd714f72" title="Metodo que genera el XML de Factura" alt="" coords="256,141,469,183"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a9c83b50c19bbdb9b296a419cb5a2d056" title="Metodo Calcula_Envio, calcula coste del envio" alt="" coords="1301,11,1515,52"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a1a63c68038e5db8cb8cc0a82b2fdc28f" title="Metodo Calcula_IVA, calcula el IVA" alt="" coords="779,91,992,132"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a980663db8243909df84a62aadb7f3574" title="Metodo Calcula_SubTotal, calcula monto sin IVA" alt="" coords="1040,65,1253,107"/>
+<area shape="rect" id="node7" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a079632a27faac3a59bb19ebba705c857" title=" " alt="" coords="517,141,731,183"/>
+<area shape="rect" id="node8" href="$class_capa___entidades_1_1_clases_1_1_factura.html#ac83f41f2e3cde127e97e25e64674ccd0" title="Metodo CalculaMonto_Cupones, calcula el total de dinero por los cupones" alt="" coords="517,207,731,248"/>
+<area shape="rect" id="node9" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a8aa6642cd8f8dd13cb3f0896d775448b" title="Metodo CalculaMonto_Productos, calcula el total de dinero por los productos" alt="" coords="517,272,731,313"/>
+<area shape="rect" id="node10" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aa2aeeaf3c15adc3e0f846f4228943499" title="Metodo CalculaMonto_Total, calcula el total de la factura" alt="" coords="517,337,731,379"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_clases_1_1_pago.html#ab6d3fc21e8e94e0b479d6af38cc9fe7f" title="Metodo AsignarCostoColones, asigna costo en colones" alt="" coords="1563,11,1761,52"/>
+</map>

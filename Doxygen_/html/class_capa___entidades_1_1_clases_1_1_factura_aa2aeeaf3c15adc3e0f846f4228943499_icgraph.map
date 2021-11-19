@@ -1,0 +1,10 @@
+<map id="Capa_Entidades.Clases.Factura.CalculaMonto_Total" name="Capa_Entidades.Clases.Factura.CalculaMonto_Total">
+<area shape="rect" id="node1" title="Metodo CalculaMonto_Total, calcula el total de la factura" alt="" coords="896,93,1109,135"/>
+<area shape="rect" id="node2" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#adbb3115708da0e0e1686bb70a5fece21" title="Metodo que obtieneCalculaMonto_Total, calcula el total de la factura" alt="" coords="640,5,843,47"/>
+<area shape="rect" id="node3" href="$class_capa___entidades_1_1_clases_1_1_factura.html#aeeec3138e7cf38aa4f210974d32fa379" title="Metodo que genera el PDF de Factura" alt="" coords="341,57,554,99"/>
+<area shape="rect" id="node5" href="$class_capa___entidades_1_1_clases_1_1_factura.html#afef2d3f8d42dbfe24839f6f7f7d4c996" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="308,188,587,229"/>
+<area shape="rect" id="node7" href="$class_capa___entidades_1_1_clases_1_1_factura.html#a88eafcf49ef8e25d21b51523fd714f72" title="Metodo que genera el XML de Factura" alt="" coords="635,123,848,164"/>
+<area shape="rect" id="node4" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#a8623b368b821f41e24b24ed2857e6ff9" title="Metodo que obtiene el PDF de Factura" alt="" coords="31,57,234,99"/>
+<area shape="rect" id="node6" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#ad2cb098e50b690752f12a825f25d2520" title="Metodo que genera el PDF de Factura, y lo guarda en la ruta especificada por el usuario" alt="" coords="5,181,260,237"/>
+<area shape="rect" id="node8" href="$class_capa___entidades_1_1_gestor_1_1_gestor___factura.html#af927dd7a41a20795cbbddae3dc04bb4e" title="Metodo que obtiene el XML de Factura" alt="" coords="346,123,549,164"/>
+</map>

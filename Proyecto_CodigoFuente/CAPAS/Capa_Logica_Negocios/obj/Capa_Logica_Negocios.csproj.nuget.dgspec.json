@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica_Negocios\\Capa_Logica_Negocios.csproj": {}
+  },
+  "projects": {
+    "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Acceso_Datos\\Capa_Acceso_Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Acceso_Datos\\Capa_Acceso_Datos.csproj",
+        "projectName": "Capa_Acceso_Datos",
+        "projectPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Acceso_Datos\\Capa_Acceso_Datos.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Acceso_Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj": {
+                "projectPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.WebForms": {
+              "target": "Package",
+              "version": "[150.1404.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj",
+        "projectName": "Capa_Entidades",
+        "projectPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica_Negocios\\Capa_Logica_Negocios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica_Negocios\\Capa_Logica_Negocios.csproj",
+        "projectName": "Capa_Logica_Negocios",
+        "projectPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica_Negocios\\Capa_Logica_Negocios.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica_Negocios\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Acceso_Datos\\Capa_Acceso_Datos.csproj": {
+                "projectPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Acceso_Datos\\Capa_Acceso_Datos.csproj"
+              },
+              "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj": {
+                "projectPath": "D:\\Carpetas_Sistema_\\Documentos\\VisualProyectos\\PROGRAMACION_3\\PROYECTO_FINAL_PROGRAMADO_5CT\\901100632_JohnPaulAlfaroCarballo\\Proyecto_CodigoFuente\\CAPAS\\Capa_Logica\\Capa_Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.WebForms": {
+              "target": "Package",
+              "version": "[150.1404.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
